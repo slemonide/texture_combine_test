@@ -16,7 +16,7 @@ function stretch_texture(texture1, texture2,h,w)
 	return tile
 end
 
-local h = 30
+local h = 31
 local w = 31
 
 local tile = stretch_texture("a.png", "b.png", h, w)
